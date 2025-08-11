@@ -53,4 +53,4 @@
 
 ---
 
-<p align="center"><em>"Code with precision, live with passion."</em></p>
+<p align="center"><em>"Code with determination, live with passion."</em></p>
